@@ -2,7 +2,14 @@ import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
-
+/*
+ * Henry Patrick Karugendo
+ * 21/03/2022
+ * 
+ * Small program to help me move files and break down large folders into smaller ones, 
+ * efficiently and quickly!
+ * 
+ */
 public class FileManager {
 
 	public static void main(String[] args) {
